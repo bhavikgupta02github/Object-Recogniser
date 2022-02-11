@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(206, 247, 247);
+}
+
+.heading{
+    width:100%;
+    font-size:30px;
+    font-weight:bold;
+    color:darkslategray;
+    box-shadow: 15px 15px 20px black;
+    font-family:Cochin;
+}
+
+.on{
+    font-size:20px;
+    font-weight:bold;
+    color: rgb(0, 216, 0);
+    font-family:fantasy;
+}
+
+#webcam,#result{
+    border:5px dashed rgb(0, 15, 0); 
+    width:420px;
+    height:290px;
+}
+
+#obj,#Acc{
+    font-weight: bold;
+    font-family: cursive;
+    color:indigo
+}
